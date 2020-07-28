@@ -1,4 +1,6 @@
 Hola mi nombre es Luis Alberto Ducuara
 
-Mi edad es 34 años
+Mi edad es 34 años.
+
+Hoy hablaremos de su vida
 
