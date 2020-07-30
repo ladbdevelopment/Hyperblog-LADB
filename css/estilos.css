@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
-	color: blue;
-=======
 	color: #333; 
->>>>>>> Cabecera
 	text-align: center;
 	font-family: "Comic";
 	margin: 0;
@@ -14,7 +10,8 @@ body
 {
 	padding: 1em.
 }
-#container{
+#container
+{
 	font-family: "Arial";
 	font-size: 16px;
 	margin: 0;
