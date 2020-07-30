@@ -1,6 +1,12 @@
 body
 {
-	color: darkslateblue; 
+	color: blue;
 	text-align: center;
 	font-family: "Comic";
+	margin: 0;
+	padding: 0;
+}
+#post 
+{
+	padding: 1em.
 }
