@@ -1,4 +1,4 @@
-#Hyperblog - LADB Development
+# Hyperblog - LADB Development
 Mi primer Blog de práctica para el Curso de Git y Github de Platzi
 
 **Contenido**
@@ -14,5 +14,5 @@ Mi primer Blog de práctica para el Curso de Git y Github de Platzi
 
 
 ### Hecho con pasión 
-####LADB Development 🇨🇴
+#### LADB Development 🇨🇴
 ##### "Los sueños necesitan sacrificio, el sacrificio genera disciplina, la discplina con lleva a cumplir los sueños".
